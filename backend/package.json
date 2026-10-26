@@ -1,0 +1,19 @@
+{
+  "name": "recipe-bot-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Recipe Bot chatbot web app using Express and Gemini API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "keywords": ["recipe-bot", "gemini-api", "express", "cooking", "chatbot"],
+  "author": "",
+  "license": "ISC"
+}

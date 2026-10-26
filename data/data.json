@@ -1,0 +1,357 @@
+[
+  {
+    "id": "rec-001",
+    "name": "Creamy Tuscan Garlic Butter Chicken",
+    "cuisine": "Italian",
+    "cookingTime": "20 mins",
+    "prepTime": "10 mins",
+    "difficulty": "Easy",
+    "servings": 4,
+    "calories": 480,
+    "ingredients": [
+      "chicken breast",
+      "garlic",
+      "spinach",
+      "heavy cream",
+      "sun-dried tomatoes",
+      "parmesan cheese",
+      "olive oil",
+      "butter",
+      "chicken broth",
+      "italian herbs",
+      "salt and black pepper"
+    ],
+    "steps": [
+      "Season chicken cutlets with salt, pepper, and Italian herbs.",
+      "Heat olive oil and 1 tbsp butter in a large skillet over medium-high heat. Sear chicken 5-6 mins per side until golden brown and cooked through. Transfer to a plate.",
+      "In the same skillet, melt remaining butter. Add minced garlic and sun-dried tomatoes; sauté for 1 minute until fragrant.",
+      "Pour in chicken broth and heavy cream. Bring to a gentle simmer, scraping up any browned bits.",
+      "Stir in grated Parmesan until melted. Add fresh spinach and let wilt for 2 minutes.",
+      "Return chicken cutlets to the pan, spooning the rich creamy sauce over them. Garnish with fresh herbs and serve warm."
+    ],
+    "tags": ["chicken", "creamy", "garlic", "spinach", "quick", "dinner", "keto", "high-protein"]
+  },
+  {
+    "id": "rec-002",
+    "name": "Authentic Neapolitan Margherita Pizza",
+    "cuisine": "Italian",
+    "cookingTime": "10 mins",
+    "prepTime": "20 mins",
+    "difficulty": "Medium",
+    "servings": 2,
+    "calories": 520,
+    "ingredients": [
+      "pizza dough",
+      "canned tomatoes (san marzano)",
+      "mozzarella cheese",
+      "fresh basil",
+      "extra virgin olive oil",
+      "flaky sea salt"
+    ],
+    "steps": [
+      "Preheat oven with pizza stone to highest setting (500°F / 260°C) for 45 minutes.",
+      "Gently stretch dough from center outwards onto parchment or a floured peel, leaving a puffy 1-inch crust edge.",
+      "Spread crushed tomatoes evenly over the base.",
+      "Tear fresh mozzarella into chunks and distribute evenly. Drizzle with olive oil and sea salt.",
+      "Bake for 8-10 minutes until crust is blistered and cheese is bubbling.",
+      "Top with fresh basil leaves immediately after baking, slice, and enjoy hot."
+    ],
+    "tags": ["pizza", "cheese", "tomato", "basil", "vegetarian", "comfort food"]
+  },
+  {
+    "id": "rec-003",
+    "name": "15-Minute Spicy Garlic Sesame Ramen",
+    "cuisine": "Japanese",
+    "cookingTime": "10 mins",
+    "prepTime": "5 mins",
+    "difficulty": "Easy",
+    "servings": 1,
+    "calories": 420,
+    "ingredients": [
+      "ramen noodles",
+      "garlic",
+      "scallions (green onions)",
+      "chili flakes",
+      "sesame seeds",
+      "cooking oil",
+      "soy sauce",
+      "sesame oil",
+      "egg"
+    ],
+    "steps": [
+      "Boil ramen noodles for 3 minutes. Drain and place in serving bowl.",
+      "In a heatproof bowl, add minced garlic, chopped scallion whites, chili flakes, and sesame seeds.",
+      "Heat 2 tbsp oil in a small pan until smoking hot. Pour hot oil carefully over the garlic and chili to sizzle aromatics.",
+      "Stir in soy sauce and sesame oil to make a glossy sauce.",
+      "Toss hot noodles into the spicy garlic sesame sauce until well coated.",
+      "Top with a soft-boiled egg, scallion greens, and extra sesame seeds."
+    ],
+    "tags": ["noodles", "ramen", "spicy", "garlic", "quick", "15-min", "lunch"]
+  },
+  {
+    "id": "rec-004",
+    "name": "Fresh Mexican Street Tacos (Carne Asada)",
+    "cuisine": "Mexican",
+    "cookingTime": "10 mins",
+    "prepTime": "15 mins",
+    "difficulty": "Easy",
+    "servings": 4,
+    "calories": 490,
+    "ingredients": [
+      "flank steak or beef",
+      "corn tortillas",
+      "limes",
+      "white onion",
+      "fresh cilantro",
+      "garlic",
+      "ground cumin",
+      "olive oil or avocado oil",
+      "salsa verde"
+    ],
+    "steps": [
+      "Marinate steak in lime juice, minced garlic, cumin, salt, and oil for at least 30 minutes.",
+      "Grill or sear steak in a smoking hot skillet for 4-5 mins per side. Rest for 5 mins, then dice into small cubes.",
+      "Warm corn tortillas over an open flame or dry pan until soft and lightly charred.",
+      "Stack double tortillas, load with grilled steak cubes, and top with diced onions and chopped cilantro.",
+      "Drizzle with tangy salsa verde and serve with fresh lime wedges."
+    ],
+    "tags": ["tacos", "beef", "mexican", "street food", "gluten-free", "dinner"]
+  },
+  {
+    "id": "rec-005",
+    "name": "Velvety Paneer Butter Masala",
+    "cuisine": "Indian",
+    "cookingTime": "25 mins",
+    "prepTime": "15 mins",
+    "difficulty": "Medium",
+    "servings": 4,
+    "calories": 460,
+    "ingredients": [
+      "paneer (cottage cheese)",
+      "tomatoes",
+      "onions",
+      "butter",
+      "heavy cream or cashew cream",
+      "ginger",
+      "garlic",
+      "garam masala",
+      "red chili powder",
+      "turmeric",
+      "fenugreek leaves (kasuri methi)",
+      "fresh cilantro"
+    ],
+    "steps": [
+      "Lightly pan-fry paneer cubes in 1 tbsp butter until golden. Soak in warm water to keep tender.",
+      "In a pan, cook onions, ginger, and garlic in butter until soft and golden.",
+      "Add tomato puree, chili powder, coriander, and turmeric. Cook until oil separates (10 mins).",
+      "Blend tomato mixture with cashew cream for a silky restaurant gravy.",
+      "Simmer sauce, stir in paneer cubes, crushed fenugreek leaves, and garam masala.",
+      "Swirl in heavy cream, garnish with fresh cilantro, and serve with warm naan or rice."
+    ],
+    "tags": ["paneer", "indian", "curry", "vegetarian", "comfort food", "rich"]
+  },
+  {
+    "id": "rec-006",
+    "name": "Mediterranean Quinoa Salad Bowl",
+    "cuisine": "Mediterranean",
+    "cookingTime": "15 mins",
+    "prepTime": "10 mins",
+    "difficulty": "Easy",
+    "servings": 2,
+    "calories": 380,
+    "ingredients": [
+      "quinoa",
+      "chickpeas",
+      "cucumber",
+      "cherry tomatoes",
+      "kalamata olives",
+      "red onion",
+      "feta cheese",
+      "extra virgin olive oil",
+      "lemon",
+      "oregano",
+      "fresh parsley"
+    ],
+    "steps": [
+      "Cook rinsed quinoa in 2 cups water or broth for 15 minutes. Let cool.",
+      "In a small bowl, whisk olive oil, lemon juice, minced garlic, oregano, salt, and pepper.",
+      "Dice cucumber, halve tomatoes, and drain chickpeas.",
+      "In serving bowls, layer cooked quinoa, chickpeas, cucumber, tomatoes, olives, and red onion.",
+      "Drizzle zesty lemon dressing over the bowl, crumble feta cheese on top, and sprinkle with parsley."
+    ],
+    "tags": ["salad", "healthy", "quinoa", "vegan-option", "gluten-free", "mediterranean", "lunch"]
+  },
+  {
+    "id": "rec-007",
+    "name": "Avocado & Runny Poached Egg Sourdough Toast",
+    "cuisine": "American",
+    "cookingTime": "5 mins",
+    "prepTime": "5 mins",
+    "difficulty": "Easy",
+    "servings": 1,
+    "calories": 340,
+    "ingredients": [
+      "sourdough bread",
+      "ripe avocado",
+      "egg",
+      "lemon juice",
+      "chili flakes",
+      "olive oil",
+      "flaky sea salt",
+      "black pepper"
+    ],
+    "steps": [
+      "Toast thick slice of sourdough bread until golden and crisp.",
+      "Mash ripe avocado with lemon juice, salt, and cracked black pepper.",
+      "Simmer water with 1 tbsp vinegar in a small pot. Create a whirlpool and gently drop in egg. Poach for 3 minutes.",
+      "Spread mashed avocado generously over toasted sourdough.",
+      "Place warm poached egg on top. Garnish with red chili flakes, flaky salt, and a drizzle of olive oil."
+    ],
+    "tags": ["breakfast", "avocado", "egg", "toast", "quick", "healthy", "vegetarian"]
+  },
+  {
+    "id": "rec-008",
+    "name": "Warm Molten Dark Chocolate Lava Cake",
+    "cuisine": "French",
+    "cookingTime": "12 mins",
+    "prepTime": "15 mins",
+    "difficulty": "Medium",
+    "servings": 2,
+    "calories": 440,
+    "ingredients": [
+      "dark chocolate",
+      "butter",
+      "eggs",
+      "powdered sugar",
+      "flour",
+      "vanilla extract",
+      "cocoa powder",
+      "pinch of salt"
+    ],
+    "steps": [
+      "Preheat oven to 425°F (218°C). Grease two ramekins and dust with cocoa powder.",
+      "Melt dark chocolate and butter together until completely smooth.",
+      "Whisk in powdered sugar, 2 whole eggs + 1 yolk, and vanilla extract until glossy.",
+      "Fold in flour and a pinch of salt just until combined.",
+      "Pour batter into prepared ramekins. Bake for 12 minutes until edges are set but center jiggles.",
+      "Invert gently onto plates, dust with powdered sugar, and serve warm with vanilla ice cream."
+    ],
+    "tags": ["dessert", "chocolate", "baking", "sweet", "cake", "lava cake"]
+  },
+  {
+    "id": "rec-009",
+    "name": "Crispy Teriyaki Salmon Rice Bowl",
+    "cuisine": "Japanese",
+    "cookingTime": "12 mins",
+    "prepTime": "10 mins",
+    "difficulty": "Easy",
+    "servings": 2,
+    "calories": 510,
+    "ingredients": [
+      "salmon fillets (skin-on)",
+      "cooked rice",
+      "soy sauce",
+      "honey or brown sugar",
+      "ginger",
+      "garlic",
+      "sesame seeds",
+      "edamame or green vegetables",
+      "cucumber",
+      "cooking oil"
+    ],
+    "steps": [
+      "Whisk soy sauce, honey, minced garlic, and grated ginger in a bowl to make teriyaki sauce.",
+      "Pat salmon skin very dry with paper towels and season with salt.",
+      "Heat 1 tbsp oil in a skillet. Sear salmon skin-side down for 5-6 mins until skin is super crisp.",
+      "Flip salmon, pour teriyaki sauce into the pan, and spoon over salmon for 2-3 mins until glazed.",
+      "Serve glazed salmon over steamed jasmine rice with sliced cucumbers and edamame.",
+      "Garnish with toasted sesame seeds and sliced green onions."
+    ],
+    "tags": ["salmon", "fish", "teriyaki", "rice bowl", "japanese", "healthy", "high-protein"]
+  },
+  {
+    "id": "rec-010",
+    "name": "Aromatic Thai Coconut Green Curry",
+    "cuisine": "Thai",
+    "cookingTime": "15 mins",
+    "prepTime": "10 mins",
+    "difficulty": "Easy",
+    "servings": 3,
+    "calories": 430,
+    "ingredients": [
+      "tofu or chicken",
+      "coconut milk",
+      "thai green curry paste",
+      "bell pepper",
+      "snap peas or green beans",
+      "thai basil",
+      "soy sauce or tamari",
+      "lime",
+      "coconut oil",
+      "cooked jasmine rice"
+    ],
+    "steps": [
+      "Heat 1 tbsp coconut oil in a pan. Pan-fry tofu or chicken until lightly browned, then set aside.",
+      "Fry green curry paste in coconut cream for 2 minutes until fragrant and oil separates.",
+      "Pour in remainder of coconut milk and bring to a gentle simmer.",
+      "Add sliced bell peppers and snap peas. Cook for 5 minutes until tender-crisp.",
+      "Season with soy sauce, lime juice, and return cooked tofu/chicken to pan.",
+      "Turn off heat, stir in fresh Thai basil leaves, and serve hot over jasmine rice."
+    ],
+    "tags": ["curry", "thai", "coconut", "tofu", "chicken", "vegan-option", "spicy", "dinner"]
+  },
+  {
+    "id": "rec-011",
+    "name": "Classic Golden French Omelette",
+    "cuisine": "French",
+    "cookingTime": "5 mins",
+    "prepTime": "3 mins",
+    "difficulty": "Easy",
+    "servings": 1,
+    "calories": 280,
+    "ingredients": [
+      "eggs",
+      "butter",
+      "cheese (cheddar, gruyere, or goat cheese)",
+      "fresh chives or parsley",
+      "salt",
+      "black pepper"
+    ],
+    "steps": [
+      "Whisk 3 eggs vigorously with a pinch of salt and pepper until uniform and slightly frothy.",
+      "Melt butter in a non-stick skillet over medium-low heat until foamy but not browned.",
+      "Pour in eggs and shake pan while stirring quickly with a spatula until soft curds form.",
+      "Smooth curds into an even layer, sprinkle cheese and chopped chives across the center.",
+      "Roll omelette gently onto itself and slide onto a warm plate. Brush top with a touch of butter."
+    ],
+    "tags": ["breakfast", "eggs", "omelette", "quick", "5-min", "keto", "high-protein", "vegetarian"]
+  },
+  {
+    "id": "rec-012",
+    "name": "Loaded Vegetarian Black Bean Quesadilla",
+    "cuisine": "Mexican",
+    "cookingTime": "8 mins",
+    "prepTime": "5 mins",
+    "difficulty": "Easy",
+    "servings": 2,
+    "calories": 410,
+    "ingredients": [
+      "flour tortillas",
+      "black beans",
+      "shredded cheese (monterey jack or cheddar)",
+      "corn",
+      "bell pepper or jalapeno",
+      "cumin",
+      "sour cream or guacamole",
+      "salsa"
+    ],
+    "steps": [
+      "In a small bowl, mix rinsed black beans with corn, diced peppers, cumin, salt, and pepper.",
+      "Place tortilla on a dry skillet over medium heat. Cover half with cheese, the bean mixture, and more cheese.",
+      "Fold tortilla in half over the filling.",
+      "Cook 3-4 minutes per side until golden brown, crispy, and the cheese is fully melted.",
+      "Slice into wedges and serve with salsa, guacamole, and sour cream."
+    ],
+    "tags": ["quesadilla", "mexican", "beans", "cheese", "vegetarian", "quick", "snack", "dinner"]
+  }
+]

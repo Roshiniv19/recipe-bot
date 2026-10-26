@@ -1,0 +1,21 @@
+{
+  "name": "recipe-bot",
+  "version": "1.0.0",
+  "description": "Recipe Bot - AI-Powered Culinary Assistant with Gemini API & Express",
+  "scripts": {
+    "install:all": "npm --prefix backend install",
+    "postinstall": "npm --prefix backend install",
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js",
+    "backend": "cd backend && npm start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "keywords": ["recipe-bot", "gemini-api", "express", "cooking", "chatbot"],
+  "author": "",
+  "license": "ISC"
+}
